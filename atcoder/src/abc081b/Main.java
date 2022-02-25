@@ -17,7 +17,7 @@ public class Main {
         while (sc.hasNextInt()) {
             arrayInput[counter] = sc.nextInt();
             counter = counter + 1;
-            if (counter == inputN - 1) {
+            if (counter == inputN) {
                 break;
             }
         }
